@@ -37,7 +37,7 @@ class ItemPage extends StatelessWidget {
                 child: Column(
                   children: [
                     Padding(
-                      padding: const EdgeInsets.only(top: 50, bottom: 20),
+                      padding: const EdgeInsets.only(top: 45, bottom: 15),
                       child: Row(
                         children: const [
                           Text(
