@@ -1,16 +1,14 @@
-# eapp
+# 🛍️ Flutter Shopping App
 
-A new Flutter project.
+A modern and responsive Shopping App built with Flutter featuring cart functionality, product listings, user authentication, and a clean Material Design UI.
 
-## Getting Started
+ Features
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+✅ Product Listing Page with Categories  
+✅ Add to Cart & Remove from Cart  
+✅ Order Summary & Checkout Screen  
+✅ Product Details Page with Ratings  
+✅ Responsive UI for Mobile & Tablet  
+✅ State Management using Provider 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
